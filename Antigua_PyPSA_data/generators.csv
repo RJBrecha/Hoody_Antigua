@@ -1,0 +1,5 @@
+name,bus,p_nom,p_nom_extendable,marginal_cost,p_nom_min,p_nom_max,capital_cost
+Antigua_fuel_oil,Antigua,0,FALSE,170,0,inf,154460
+Antigua_solar_pv,Antigua,200,TRUE,0,0,500,102973
+Antigua_wind,Antigua,25,FALSE,0,0,400,116276
+Antigua_CSP,Antigua CSP,0,TRUE,0,0,100,291720
