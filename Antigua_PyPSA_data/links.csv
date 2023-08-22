@@ -1,5 +1,5 @@
-name,bus0,bus1,efficiency,p_min_pu,p_nom_max,p_nom_extendable,length,p_nom,capital_cost
-CSP Link,Antigua CSP,Antigua,1,0,inf,FALSE,0,70,0
+name,bus0,bus1,efficiency,p_nom_min,p_nom_max,p_nom_extendable,length,p_nom,capital_cost
+CSP Turbine,Antigua CSP,Antigua,1,40,70,TRUE,0,60,65216
 Charge,Antigua,Antigua Utility Battery,0.95,0,inf,FALSE,0,70,0
 Discharge,Antigua Utility Battery,Antigua,0.95,0,inf,FALSE,0,70,0
 Electrolyzer,Antigua,Antigua Hydrogen,0.75,0,inf,FALSE,0,0,85800

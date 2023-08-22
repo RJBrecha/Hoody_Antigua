@@ -1,4 +1,4 @@
 name,bus,e_nom,e_nom_extendable,e_nom_min,e_nom_max,capital_cost,e_initial,e_cyclic
 Antigua Battery,Antigua Utility Battery,0,TRUE,0,700,15700,0,TRUE
-CSP_Thermal,Antigua CSP,0,TRUE,0,1680,4290,0,TRUE
-Hydrogen_storage,Antigua Hydrogen,0,FALSE,0,2000,2860,0,TRUE
+CSP Thermal Storage,Antigua CSP,0,TRUE,0,1440,4291,0,TRUE
+Hydrogen Storage,Antigua Hydrogen,0,FALSE,0,2000,2860,0,TRUE
